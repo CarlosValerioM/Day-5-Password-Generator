@@ -28,7 +28,7 @@ It then generates a password by randomly selecting characters from predefined li
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/CarlosValerioM/Day-3-Random-Password-Generator.git
+git clone https://github.com/CarlosValerioM/Day-5-Random-Password-Generator.git
 ```
 Navigate to the project directory:
 
